@@ -1,0 +1,9 @@
+{
+  "rest": "https://discord.com/api/v9/",
+  "cdn": "https://cdn.discordapp.com/",
+  "socket": "wss://gateway.discord.gg/?v=11&encoding=json",
+  "dox_api": "http://localhost:8080",
+  "version": "1.0",
+  "name": "Skidbot",
+  "author": "44 | github.com/9xN && some weird kid"
+}

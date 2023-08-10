@@ -1,0 +1,8 @@
+creds.json
+config.json
+node_modules/
+ready.json
+package-lock.json
+Data/osint/*
+Data/blacklist.json
+.env

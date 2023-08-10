@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "clean": "npx prettier --write ."
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "events": "^3.3.0",
+    "ws": "^8.13.0"
+  }
+}
